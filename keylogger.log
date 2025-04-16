@@ -1,0 +1,997 @@
+2025-04-16 23:38:49,223 - DEBUG - Starting main program
+2025-04-16 23:38:49,224 - DEBUG - Starting schedule thread
+2025-04-16 23:38:49,224 - DEBUG - Setting up system tray
+2025-04-16 23:38:49,224 - DEBUG - Launching GUI
+2025-04-16 23:38:49,225 - DEBUG - Asking for password
+2025-04-16 23:38:49,336 - DEBUG - Importing AvifImagePlugin
+2025-04-16 23:38:49,343 - DEBUG - Importing BlpImagePlugin
+2025-04-16 23:38:49,343 - DEBUG - Importing BmpImagePlugin
+2025-04-16 23:38:49,343 - DEBUG - Importing BufrStubImagePlugin
+2025-04-16 23:38:49,346 - DEBUG - Importing CurImagePlugin
+2025-04-16 23:38:49,346 - DEBUG - Importing DcxImagePlugin
+2025-04-16 23:38:49,349 - DEBUG - Importing DdsImagePlugin
+2025-04-16 23:38:49,352 - DEBUG - Importing EpsImagePlugin
+2025-04-16 23:38:49,354 - DEBUG - Importing FitsImagePlugin
+2025-04-16 23:38:49,357 - DEBUG - Importing FliImagePlugin
+2025-04-16 23:38:49,358 - DEBUG - Importing FpxImagePlugin
+2025-04-16 23:38:49,359 - DEBUG - Image: failed to import FpxImagePlugin: No module named 'olefile'
+2025-04-16 23:38:49,361 - DEBUG - Importing FtexImagePlugin
+2025-04-16 23:38:49,361 - DEBUG - Importing GbrImagePlugin
+2025-04-16 23:38:49,363 - DEBUG - Importing GifImagePlugin
+2025-04-16 23:38:49,364 - DEBUG - Importing GribStubImagePlugin
+2025-04-16 23:38:49,365 - DEBUG - Importing Hdf5StubImagePlugin
+2025-04-16 23:38:49,366 - DEBUG - Importing IcnsImagePlugin
+2025-04-16 23:38:49,368 - DEBUG - Importing IcoImagePlugin
+2025-04-16 23:38:49,368 - DEBUG - Importing ImImagePlugin
+2025-04-16 23:38:49,372 - DEBUG - Importing ImtImagePlugin
+2025-04-16 23:38:49,375 - DEBUG - Importing IptcImagePlugin
+2025-04-16 23:38:49,375 - DEBUG - Importing JpegImagePlugin
+2025-04-16 23:38:49,375 - DEBUG - Importing Jpeg2KImagePlugin
+2025-04-16 23:38:49,375 - DEBUG - Importing McIdasImagePlugin
+2025-04-16 23:38:49,377 - DEBUG - Importing MicImagePlugin
+2025-04-16 23:38:49,378 - DEBUG - Image: failed to import MicImagePlugin: No module named 'olefile'
+2025-04-16 23:38:49,379 - DEBUG - Importing MpegImagePlugin
+2025-04-16 23:38:49,380 - DEBUG - Importing MpoImagePlugin
+2025-04-16 23:38:49,388 - DEBUG - Importing MspImagePlugin
+2025-04-16 23:38:49,390 - DEBUG - Importing PalmImagePlugin
+2025-04-16 23:38:49,392 - DEBUG - Importing PcdImagePlugin
+2025-04-16 23:38:49,392 - DEBUG - Importing PcxImagePlugin
+2025-04-16 23:38:49,392 - DEBUG - Importing PdfImagePlugin
+2025-04-16 23:38:49,399 - DEBUG - Importing PixarImagePlugin
+2025-04-16 23:38:49,400 - DEBUG - Importing PngImagePlugin
+2025-04-16 23:38:49,400 - DEBUG - Importing PpmImagePlugin
+2025-04-16 23:38:49,400 - DEBUG - Importing PsdImagePlugin
+2025-04-16 23:38:49,402 - DEBUG - Importing QoiImagePlugin
+2025-04-16 23:38:49,403 - DEBUG - Importing SgiImagePlugin
+2025-04-16 23:38:49,404 - DEBUG - Importing SpiderImagePlugin
+2025-04-16 23:38:49,404 - DEBUG - Importing SunImagePlugin
+2025-04-16 23:38:49,406 - DEBUG - Importing TgaImagePlugin
+2025-04-16 23:38:49,406 - DEBUG - Importing TiffImagePlugin
+2025-04-16 23:38:49,408 - DEBUG - Importing WebPImagePlugin
+2025-04-16 23:38:49,440 - DEBUG - Importing WmfImagePlugin
+2025-04-16 23:38:49,440 - DEBUG - Importing XbmImagePlugin
+2025-04-16 23:38:49,447 - DEBUG - Importing XpmImagePlugin
+2025-04-16 23:38:49,447 - DEBUG - Importing XVThumbImagePlugin
+2025-04-16 23:38:55,013 - DEBUG - Initializing GUI
+2025-04-16 23:38:55,016 - DEBUG - Setting up UI components
+2025-04-16 23:38:55,024 - DEBUG - Attempting to view logs
+2025-04-16 23:38:55,024 - DEBUG - Logs viewed successfully
+2025-04-16 23:38:55,024 - DEBUG - UI components setup completed
+2025-04-16 23:38:55,026 - DEBUG - GUI setup completed
+2025-04-16 23:38:58,913 - DEBUG - Toggling logging state
+2025-04-16 23:38:58,918 - DEBUG - Logged: --- Logging Started ---
+2025-04-16 23:38:58,918 - DEBUG - Keylogger started successfully
+2025-04-16 23:39:00,022 - DEBUG - Attempting to view logs
+2025-04-16 23:39:00,029 - DEBUG - Logs viewed successfully
+2025-04-16 23:39:02,309 - DEBUG - Logged: Window Change: Secure Keylogger
+2025-04-16 23:39:02,309 - DEBUG - Window changed to: Secure Keylogger
+2025-04-16 23:39:02,313 - DEBUG - Logged: Key Pressed: h
+2025-04-16 23:39:02,727 - DEBUG - Logged: Key Pressed: e
+2025-04-16 23:39:04,002 - DEBUG - Logged: Key Pressed: l
+2025-04-16 23:39:04,154 - DEBUG - Logged: Key Pressed: l
+2025-04-16 23:39:04,419 - DEBUG - Logged: Key Pressed: o
+2025-04-16 23:39:05,035 - DEBUG - Attempting to view logs
+2025-04-16 23:39:05,044 - DEBUG - Logs viewed successfully
+2025-04-16 23:39:06,967 - DEBUG - Logged: Special Key Pressed: [SPACE]
+2025-04-16 23:39:07,070 - DEBUG - Toggling logging state
+2025-04-16 23:39:07,070 - DEBUG - Logged: --- Logging Stopped ---
+2025-04-16 23:39:07,071 - DEBUG - Keylogger stopped successfully
+2025-04-16 23:39:09,757 - DEBUG - Toggling logging state
+2025-04-16 23:39:09,764 - DEBUG - Logged: --- Logging Started ---
+2025-04-16 23:39:09,765 - DEBUG - Keylogger started successfully
+2025-04-16 23:39:10,049 - DEBUG - Attempting to view logs
+2025-04-16 23:39:10,050 - DEBUG - Logs viewed successfully
+2025-04-16 23:39:11,620 - DEBUG - Attempting to view logs
+2025-04-16 23:39:11,620 - DEBUG - Logs viewed successfully
+2025-04-16 23:39:12,792 - DEBUG - Attempting to view logs
+2025-04-16 23:39:12,792 - DEBUG - Logs viewed successfully
+2025-04-16 23:39:15,056 - DEBUG - Attempting to view logs
+2025-04-16 23:39:15,056 - DEBUG - Logs viewed successfully
+2025-04-16 23:39:20,057 - DEBUG - Attempting to view logs
+2025-04-16 23:39:20,058 - DEBUG - Logs viewed successfully
+2025-04-16 23:39:20,723 - DEBUG - Showing settings window
+2025-04-16 23:39:25,062 - DEBUG - Attempting to view logs
+2025-04-16 23:39:25,062 - DEBUG - Logs viewed successfully
+2025-04-16 23:39:27,694 - DEBUG - Logged: Window Change: Settings
+2025-04-16 23:39:27,694 - DEBUG - Window changed to: Settings
+2025-04-16 23:39:27,694 - DEBUG - Logged: Key Pressed: i
+2025-04-16 23:39:27,937 - DEBUG - Logged: Key Pressed: a
+2025-04-16 23:39:28,437 - DEBUG - Logged: Key Pressed: m
+2025-04-16 23:39:28,637 - DEBUG - Logged: Key Pressed: m
+2025-04-16 23:39:29,340 - DEBUG - Logged: Key Pressed: a
+2025-04-16 23:39:29,479 - DEBUG - Logged: Key Pressed: d
+2025-04-16 23:39:29,611 - DEBUG - Logged: Key Pressed: a
+2025-04-16 23:39:30,048 - DEBUG - Logged: Key Pressed: r
+2025-04-16 23:39:30,070 - DEBUG - Attempting to view logs
+2025-04-16 23:39:30,078 - DEBUG - Logs viewed successfully
+2025-04-16 23:39:30,197 - DEBUG - Logged: Key Pressed: a
+2025-04-16 23:39:30,916 - DEBUG - Logged: Key Pressed: u
+2025-04-16 23:39:31,515 - DEBUG - Logged: Key Pressed: c
+2025-04-16 23:39:31,577 - DEBUG - Logged: Key Pressed: h
+2025-04-16 23:39:31,819 - DEBUG - Logged: Key Pressed: i
+2025-04-16 23:39:32,078 - DEBUG - Logged: Key Pressed: h
+2025-04-16 23:39:32,194 - DEBUG - Logged: Key Pressed: a
+2025-04-16 23:39:33,562 - DEBUG - Logged: Key Pressed: h
+2025-04-16 23:39:33,703 - DEBUG - Logged: Key Pressed: l
+2025-04-16 23:39:34,236 - DEBUG - Logged: Special Key Pressed: [SHIFT]
+2025-04-16 23:39:34,736 - DEBUG - Logged: Special Key Pressed: [SHIFT]
+2025-04-16 23:39:34,744 - DEBUG - Logged: Key Pressed: @
+2025-04-16 23:39:35,078 - DEBUG - Attempting to view logs
+2025-04-16 23:39:35,083 - DEBUG - Logs viewed successfully
+2025-04-16 23:39:35,413 - DEBUG - Logged: Key Pressed: g
+2025-04-16 23:39:35,687 - DEBUG - Logged: Key Pressed: m
+2025-04-16 23:39:35,861 - DEBUG - Logged: Key Pressed: a
+2025-04-16 23:39:35,994 - DEBUG - Logged: Key Pressed: i
+2025-04-16 23:39:36,333 - DEBUG - Logged: Key Pressed: l
+2025-04-16 23:39:36,563 - DEBUG - Logged: Key Pressed: .
+2025-04-16 23:39:36,890 - DEBUG - Logged: Key Pressed: c
+2025-04-16 23:39:37,007 - DEBUG - Logged: Key Pressed: o
+2025-04-16 23:39:37,245 - DEBUG - Logged: Key Pressed: m
+2025-04-16 23:39:39,381 - DEBUG - Logged: Key Pressed: a
+2025-04-16 23:39:39,597 - DEBUG - Logged: Key Pressed: d
+2025-04-16 23:39:39,854 - DEBUG - Logged: Key Pressed: m
+2025-04-16 23:39:40,089 - DEBUG - Attempting to view logs
+2025-04-16 23:39:40,099 - DEBUG - Logs viewed successfully
+2025-04-16 23:39:40,105 - DEBUG - Logged: Key Pressed: i
+2025-04-16 23:39:40,347 - DEBUG - Logged: Key Pressed: n
+2025-04-16 23:39:40,708 - DEBUG - Logged: Key Pressed: 1
+2025-04-16 23:39:40,908 - DEBUG - Logged: Key Pressed: 2
+2025-04-16 23:39:41,140 - DEBUG - Logged: Key Pressed: 3
+2025-04-16 23:39:45,106 - DEBUG - Attempting to view logs
+2025-04-16 23:39:45,106 - DEBUG - Logs viewed successfully
+2025-04-16 23:39:50,109 - DEBUG - Attempting to view logs
+2025-04-16 23:39:50,109 - DEBUG - Logs viewed successfully
+2025-04-16 23:39:55,112 - DEBUG - Attempting to view logs
+2025-04-16 23:39:55,112 - DEBUG - Logs viewed successfully
+2025-04-16 23:40:00,116 - DEBUG - Attempting to view logs
+2025-04-16 23:40:00,117 - DEBUG - Logs viewed successfully
+2025-04-16 23:40:05,122 - DEBUG - Attempting to view logs
+2025-04-16 23:40:05,123 - DEBUG - Logs viewed successfully
+2025-04-16 23:40:10,123 - DEBUG - Attempting to view logs
+2025-04-16 23:40:10,123 - DEBUG - Logs viewed successfully
+2025-04-16 23:40:15,129 - DEBUG - Attempting to view logs
+2025-04-16 23:40:15,129 - DEBUG - Logs viewed successfully
+2025-04-16 23:40:20,136 - DEBUG - Attempting to view logs
+2025-04-16 23:40:20,136 - DEBUG - Logs viewed successfully
+2025-04-16 23:40:20,867 - DEBUG - Logged: Key Pressed: i
+2025-04-16 23:40:21,101 - DEBUG - Logged: Key Pressed: a
+2025-04-16 23:40:21,679 - DEBUG - Logged: Key Pressed: m
+2025-04-16 23:40:24,658 - DEBUG - Logged: Key Pressed: s
+2025-04-16 23:40:24,830 - DEBUG - Logged: Key Pressed: i
+2025-04-16 23:40:25,137 - DEBUG - Attempting to view logs
+2025-04-16 23:40:25,137 - DEBUG - Logged: Key Pressed: l
+2025-04-16 23:40:25,146 - DEBUG - Logs viewed successfully
+2025-04-16 23:40:25,401 - DEBUG - Logged: Key Pressed: e
+2025-04-16 23:40:25,575 - DEBUG - Logged: Key Pressed: n
+2025-04-16 23:40:25,951 - DEBUG - Logged: Key Pressed: t
+2025-04-16 23:40:26,212 - DEBUG - Logged: Key Pressed: b
+2025-04-16 23:40:26,559 - DEBUG - Logged: Key Pressed: o
+2025-04-16 23:40:26,996 - DEBUG - Logged: Key Pressed: y
+2025-04-16 23:40:29,191 - DEBUG - Logged: Key Pressed: 5
+2025-04-16 23:40:29,378 - DEBUG - Logged: Key Pressed: 0
+2025-04-16 23:40:29,462 - DEBUG - Logged: Key Pressed: 5
+2025-04-16 23:40:30,149 - DEBUG - Attempting to view logs
+2025-04-16 23:40:30,159 - DEBUG - Logs viewed successfully
+2025-04-16 23:40:30,295 - DEBUG - Logged: Special Key Pressed: [SHIFT]
+2025-04-16 23:40:30,795 - DEBUG - Logged: Special Key Pressed: [SHIFT]
+2025-04-16 23:40:30,824 - DEBUG - Logged: Special Key Pressed: [SHIFT]
+2025-04-16 23:40:30,858 - DEBUG - Logged: Special Key Pressed: [SHIFT]
+2025-04-16 23:40:30,887 - DEBUG - Logged: Special Key Pressed: [SHIFT]
+2025-04-16 23:40:30,922 - DEBUG - Logged: Special Key Pressed: [SHIFT]
+2025-04-16 23:40:30,955 - DEBUG - Logged: Special Key Pressed: [SHIFT]
+2025-04-16 23:40:30,990 - DEBUG - Logged: Special Key Pressed: [SHIFT]
+2025-04-16 23:40:31,024 - DEBUG - Logged: Special Key Pressed: [SHIFT]
+2025-04-16 23:40:31,052 - DEBUG - Logged: Special Key Pressed: [SHIFT]
+2025-04-16 23:40:31,087 - DEBUG - Logged: Special Key Pressed: [SHIFT]
+2025-04-16 23:40:31,122 - DEBUG - Logged: Special Key Pressed: [SHIFT]
+2025-04-16 23:40:31,157 - DEBUG - Logged: Special Key Pressed: [SHIFT]
+2025-04-16 23:40:31,191 - DEBUG - Logged: Special Key Pressed: [SHIFT]
+2025-04-16 23:40:31,219 - DEBUG - Logged: Special Key Pressed: [SHIFT]
+2025-04-16 23:40:31,254 - DEBUG - Logged: Special Key Pressed: [SHIFT]
+2025-04-16 23:40:31,283 - DEBUG - Logged: Special Key Pressed: [SHIFT]
+2025-04-16 23:40:31,317 - DEBUG - Logged: Special Key Pressed: [SHIFT]
+2025-04-16 23:40:31,337 - DEBUG - Logged: Key Pressed: @
+2025-04-16 23:40:32,045 - DEBUG - Logged: Key Pressed: g
+2025-04-16 23:40:32,372 - DEBUG - Logged: Key Pressed: m
+2025-04-16 23:40:32,491 - DEBUG - Logged: Key Pressed: a
+2025-04-16 23:40:32,638 - DEBUG - Logged: Key Pressed: i
+2025-04-16 23:40:32,920 - DEBUG - Logged: Key Pressed: l
+2025-04-16 23:40:33,169 - DEBUG - Logged: Key Pressed: .
+2025-04-16 23:40:33,475 - DEBUG - Logged: Key Pressed: c
+2025-04-16 23:40:33,637 - DEBUG - Logged: Key Pressed: o
+2025-04-16 23:40:34,038 - DEBUG - Logged: Key Pressed: m
+2025-04-16 23:40:35,162 - DEBUG - Attempting to view logs
+2025-04-16 23:40:35,171 - DEBUG - Logs viewed successfully
+2025-04-16 23:40:36,172 - DEBUG - Saving settings
+2025-04-16 23:40:38,149 - DEBUG - Settings saved successfully
+2025-04-16 23:40:40,176 - DEBUG - Attempting to view logs
+2025-04-16 23:40:40,177 - DEBUG - Logs viewed successfully
+2025-04-16 23:40:45,178 - DEBUG - Attempting to view logs
+2025-04-16 23:40:45,178 - DEBUG - Logs viewed successfully
+2025-04-16 23:40:50,178 - DEBUG - Attempting to view logs
+2025-04-16 23:40:50,178 - DEBUG - Logs viewed successfully
+2025-04-16 23:40:55,183 - DEBUG - Attempting to view logs
+2025-04-16 23:40:55,183 - DEBUG - Logs viewed successfully
+2025-04-16 23:41:00,189 - DEBUG - Attempting to view logs
+2025-04-16 23:41:00,189 - DEBUG - Logs viewed successfully
+2025-04-16 23:41:01,008 - DEBUG - Attempting to view logs
+2025-04-16 23:41:01,010 - DEBUG - Logs viewed successfully
+2025-04-16 23:41:01,960 - DEBUG - Toggling logging state
+2025-04-16 23:41:01,960 - DEBUG - Logged: --- Logging Stopped ---
+2025-04-16 23:41:01,960 - DEBUG - Keylogger stopped successfully
+2025-04-16 23:41:05,189 - DEBUG - Attempting to view logs
+2025-04-16 23:41:05,196 - DEBUG - Logs viewed successfully
+2025-04-16 23:41:10,203 - DEBUG - Attempting to view logs
+2025-04-16 23:41:10,205 - DEBUG - Logs viewed successfully
+2025-04-16 23:41:15,205 - DEBUG - Attempting to view logs
+2025-04-16 23:41:15,205 - DEBUG - Logs viewed successfully
+2025-04-16 23:41:20,208 - DEBUG - Attempting to view logs
+2025-04-16 23:41:20,209 - DEBUG - Logs viewed successfully
+2025-04-16 23:41:25,209 - DEBUG - Attempting to view logs
+2025-04-16 23:41:25,209 - DEBUG - Logs viewed successfully
+2025-04-16 23:41:30,216 - DEBUG - Attempting to view logs
+2025-04-16 23:41:30,216 - DEBUG - Logs viewed successfully
+2025-04-16 23:41:35,222 - DEBUG - Attempting to view logs
+2025-04-16 23:41:35,223 - DEBUG - Logs viewed successfully
+2025-04-16 23:41:40,223 - DEBUG - Attempting to view logs
+2025-04-16 23:41:40,223 - DEBUG - Logs viewed successfully
+2025-04-16 23:43:16,937 - DEBUG - Starting main program
+2025-04-16 23:43:16,938 - DEBUG - Starting schedule thread
+2025-04-16 23:43:16,938 - DEBUG - Setting up system tray
+2025-04-16 23:43:16,938 - DEBUG - Launching GUI
+2025-04-16 23:43:16,939 - DEBUG - Asking for password
+2025-04-16 23:43:17,029 - DEBUG - Importing AvifImagePlugin
+2025-04-16 23:43:17,030 - DEBUG - Importing BlpImagePlugin
+2025-04-16 23:43:17,032 - DEBUG - Importing BmpImagePlugin
+2025-04-16 23:43:17,032 - DEBUG - Importing BufrStubImagePlugin
+2025-04-16 23:43:17,033 - DEBUG - Importing CurImagePlugin
+2025-04-16 23:43:17,035 - DEBUG - Importing DcxImagePlugin
+2025-04-16 23:43:17,035 - DEBUG - Importing DdsImagePlugin
+2025-04-16 23:43:17,041 - DEBUG - Importing EpsImagePlugin
+2025-04-16 23:43:17,042 - DEBUG - Importing FitsImagePlugin
+2025-04-16 23:43:17,046 - DEBUG - Importing FliImagePlugin
+2025-04-16 23:43:17,046 - DEBUG - Importing FpxImagePlugin
+2025-04-16 23:43:17,051 - DEBUG - Image: failed to import FpxImagePlugin: No module named 'olefile'
+2025-04-16 23:43:17,051 - DEBUG - Importing FtexImagePlugin
+2025-04-16 23:43:17,052 - DEBUG - Importing GbrImagePlugin
+2025-04-16 23:43:17,053 - DEBUG - Importing GifImagePlugin
+2025-04-16 23:43:17,054 - DEBUG - Importing GribStubImagePlugin
+2025-04-16 23:43:17,055 - DEBUG - Importing Hdf5StubImagePlugin
+2025-04-16 23:43:17,056 - DEBUG - Importing IcnsImagePlugin
+2025-04-16 23:43:17,059 - DEBUG - Importing IcoImagePlugin
+2025-04-16 23:43:17,061 - DEBUG - Importing ImImagePlugin
+2025-04-16 23:43:17,062 - DEBUG - Importing ImtImagePlugin
+2025-04-16 23:43:17,064 - DEBUG - Importing IptcImagePlugin
+2025-04-16 23:43:17,066 - DEBUG - Importing JpegImagePlugin
+2025-04-16 23:43:17,066 - DEBUG - Importing Jpeg2KImagePlugin
+2025-04-16 23:43:17,066 - DEBUG - Importing McIdasImagePlugin
+2025-04-16 23:43:17,067 - DEBUG - Importing MicImagePlugin
+2025-04-16 23:43:17,068 - DEBUG - Image: failed to import MicImagePlugin: No module named 'olefile'
+2025-04-16 23:43:17,069 - DEBUG - Importing MpegImagePlugin
+2025-04-16 23:43:17,070 - DEBUG - Importing MpoImagePlugin
+2025-04-16 23:43:17,080 - DEBUG - Importing MspImagePlugin
+2025-04-16 23:43:17,081 - DEBUG - Importing PalmImagePlugin
+2025-04-16 23:43:17,083 - DEBUG - Importing PcdImagePlugin
+2025-04-16 23:43:17,084 - DEBUG - Importing PcxImagePlugin
+2025-04-16 23:43:17,084 - DEBUG - Importing PdfImagePlugin
+2025-04-16 23:43:17,089 - DEBUG - Importing PixarImagePlugin
+2025-04-16 23:43:17,092 - DEBUG - Importing PngImagePlugin
+2025-04-16 23:43:17,092 - DEBUG - Importing PpmImagePlugin
+2025-04-16 23:43:17,092 - DEBUG - Importing PsdImagePlugin
+2025-04-16 23:43:17,092 - DEBUG - Importing QoiImagePlugin
+2025-04-16 23:43:17,092 - DEBUG - Importing SgiImagePlugin
+2025-04-16 23:43:17,097 - DEBUG - Importing SpiderImagePlugin
+2025-04-16 23:43:17,098 - DEBUG - Importing SunImagePlugin
+2025-04-16 23:43:17,100 - DEBUG - Importing TgaImagePlugin
+2025-04-16 23:43:17,101 - DEBUG - Importing TiffImagePlugin
+2025-04-16 23:43:17,101 - DEBUG - Importing WebPImagePlugin
+2025-04-16 23:43:17,103 - DEBUG - Importing WmfImagePlugin
+2025-04-16 23:43:17,105 - DEBUG - Importing XbmImagePlugin
+2025-04-16 23:43:17,107 - DEBUG - Importing XpmImagePlugin
+2025-04-16 23:43:17,109 - DEBUG - Importing XVThumbImagePlugin
+2025-04-16 23:44:46,528 - INFO - Application starting
+2025-04-16 23:44:46,528 - INFO - Starting main program
+2025-04-16 23:44:46,529 - DEBUG - Starting schedule thread
+2025-04-16 23:44:46,530 - DEBUG - Setting up system tray
+2025-04-16 23:44:46,530 - INFO - Launching GUI
+2025-04-16 23:44:46,530 - INFO - Asking for password
+2025-04-16 23:44:46,618 - DEBUG - Importing AvifImagePlugin
+2025-04-16 23:44:46,619 - DEBUG - Importing BlpImagePlugin
+2025-04-16 23:44:46,621 - DEBUG - Importing BmpImagePlugin
+2025-04-16 23:44:46,622 - DEBUG - Importing BufrStubImagePlugin
+2025-04-16 23:44:46,623 - DEBUG - Importing CurImagePlugin
+2025-04-16 23:44:46,624 - DEBUG - Importing DcxImagePlugin
+2025-04-16 23:44:46,626 - DEBUG - Importing DdsImagePlugin
+2025-04-16 23:44:46,630 - DEBUG - Importing EpsImagePlugin
+2025-04-16 23:44:46,632 - DEBUG - Importing FitsImagePlugin
+2025-04-16 23:44:46,633 - DEBUG - Importing FliImagePlugin
+2025-04-16 23:44:46,636 - DEBUG - Importing FpxImagePlugin
+2025-04-16 23:44:46,640 - DEBUG - Importing FtexImagePlugin
+2025-04-16 23:44:46,641 - DEBUG - Importing GbrImagePlugin
+2025-04-16 23:44:46,643 - DEBUG - Importing GifImagePlugin
+2025-04-16 23:44:46,643 - DEBUG - Importing GribStubImagePlugin
+2025-04-16 23:44:46,644 - DEBUG - Importing Hdf5StubImagePlugin
+2025-04-16 23:44:46,646 - DEBUG - Importing IcnsImagePlugin
+2025-04-16 23:44:46,649 - DEBUG - Importing IcoImagePlugin
+2025-04-16 23:44:46,651 - DEBUG - Importing ImImagePlugin
+2025-04-16 23:44:46,652 - DEBUG - Importing ImtImagePlugin
+2025-04-16 23:44:46,654 - DEBUG - Importing IptcImagePlugin
+2025-04-16 23:44:46,656 - DEBUG - Importing JpegImagePlugin
+2025-04-16 23:44:46,656 - DEBUG - Importing Jpeg2KImagePlugin
+2025-04-16 23:44:46,656 - DEBUG - Importing McIdasImagePlugin
+2025-04-16 23:44:46,658 - DEBUG - Importing MicImagePlugin
+2025-04-16 23:44:46,668 - DEBUG - Importing MpegImagePlugin
+2025-04-16 23:44:46,670 - DEBUG - Importing MpoImagePlugin
+2025-04-16 23:44:46,670 - DEBUG - Importing MspImagePlugin
+2025-04-16 23:44:46,670 - DEBUG - Importing PalmImagePlugin
+2025-04-16 23:44:46,674 - DEBUG - Importing PcdImagePlugin
+2025-04-16 23:44:46,676 - DEBUG - Importing PcxImagePlugin
+2025-04-16 23:44:46,676 - DEBUG - Importing PdfImagePlugin
+2025-04-16 23:44:46,682 - DEBUG - Importing PixarImagePlugin
+2025-04-16 23:44:46,684 - DEBUG - Importing PngImagePlugin
+2025-04-16 23:44:46,684 - DEBUG - Importing PpmImagePlugin
+2025-04-16 23:44:46,684 - DEBUG - Importing PsdImagePlugin
+2025-04-16 23:44:46,686 - DEBUG - Importing QoiImagePlugin
+2025-04-16 23:44:46,686 - DEBUG - Importing SgiImagePlugin
+2025-04-16 23:44:46,686 - DEBUG - Importing SpiderImagePlugin
+2025-04-16 23:44:46,690 - DEBUG - Importing SunImagePlugin
+2025-04-16 23:44:46,690 - DEBUG - Importing TgaImagePlugin
+2025-04-16 23:44:46,692 - DEBUG - Importing TiffImagePlugin
+2025-04-16 23:44:46,693 - DEBUG - Importing WebPImagePlugin
+2025-04-16 23:44:46,694 - DEBUG - Importing WmfImagePlugin
+2025-04-16 23:44:46,695 - DEBUG - Importing XbmImagePlugin
+2025-04-16 23:44:46,697 - DEBUG - Importing XpmImagePlugin
+2025-04-16 23:44:46,698 - DEBUG - Importing XVThumbImagePlugin
+2025-04-16 23:44:53,506 - INFO - Password check result: True
+2025-04-16 23:44:53,570 - INFO - Initializing GUI
+2025-04-16 23:44:53,587 - INFO - Setting up UI components
+2025-04-16 23:44:53,598 - DEBUG - Attempting to view logs
+2025-04-16 23:44:53,605 - DEBUG - Logs viewed successfully
+2025-04-16 23:44:53,637 - INFO - UI components setup completed
+2025-04-16 23:44:53,637 - INFO - GUI setup completed
+2025-04-16 23:44:53,637 - INFO - Starting main loop
+2025-04-16 23:44:58,606 - DEBUG - Attempting to view logs
+2025-04-16 23:44:58,609 - DEBUG - Logs viewed successfully
+2025-04-16 23:44:59,322 - DEBUG - Toggling logging state
+2025-04-16 23:44:59,329 - DEBUG - Logged: --- Logging Started ---
+2025-04-16 23:44:59,329 - DEBUG - Keylogger started successfully
+2025-04-16 23:45:03,614 - DEBUG - Attempting to view logs
+2025-04-16 23:45:03,628 - DEBUG - Logs viewed successfully
+2025-04-16 23:45:08,630 - DEBUG - Attempting to view logs
+2025-04-16 23:45:08,634 - DEBUG - Logs viewed successfully
+2025-04-16 23:45:08,683 - DEBUG - Logged: Window Change: Secure Keylogger
+2025-04-16 23:45:08,685 - DEBUG - Window changed to: Secure Keylogger
+2025-04-16 23:45:08,685 - DEBUG - Logged: Key Pressed: h
+2025-04-16 23:45:08,849 - DEBUG - Logged: Key Pressed: e
+2025-04-16 23:45:09,599 - DEBUG - Logged: Key Pressed: l
+2025-04-16 23:45:09,758 - DEBUG - Logged: Key Pressed: l
+2025-04-16 23:45:09,921 - DEBUG - Logged: Key Pressed: o
+2025-04-16 23:45:13,640 - DEBUG - Attempting to view logs
+2025-04-16 23:45:13,654 - DEBUG - Logs viewed successfully
+2025-04-16 23:45:18,536 - DEBUG - Attempting to view logs
+2025-04-16 23:45:18,543 - DEBUG - Logs viewed successfully
+2025-04-16 23:45:18,656 - DEBUG - Attempting to view logs
+2025-04-16 23:45:18,661 - DEBUG - Logs viewed successfully
+2025-04-16 23:45:23,667 - DEBUG - Attempting to view logs
+2025-04-16 23:45:23,670 - DEBUG - Logs viewed successfully
+2025-04-16 23:45:26,939 - DEBUG - Showing settings window
+2025-04-16 23:45:28,674 - DEBUG - Attempting to view logs
+2025-04-16 23:45:28,678 - DEBUG - Logs viewed successfully
+2025-04-16 23:45:29,045 - DEBUG - Saving settings
+2025-04-16 23:45:31,279 - DEBUG - Settings saved successfully
+2025-04-16 23:45:33,681 - DEBUG - Attempting to view logs
+2025-04-16 23:45:33,681 - DEBUG - Logs viewed successfully
+2025-04-16 23:45:35,448 - DEBUG - Showing settings window
+2025-04-16 23:45:38,687 - DEBUG - Attempting to view logs
+2025-04-16 23:45:38,691 - DEBUG - Logs viewed successfully
+2025-04-16 23:45:43,694 - DEBUG - Attempting to view logs
+2025-04-16 23:45:43,694 - DEBUG - Logs viewed successfully
+2025-04-16 23:45:45,368 - DEBUG - Logged: --- Logging Stopped ---
+2025-04-16 23:45:45,368 - DEBUG - Keylogger stopped successfully
+2025-04-16 23:47:07,467 - INFO - Application starting
+2025-04-16 23:47:07,467 - INFO - Starting main program
+2025-04-16 23:47:07,467 - DEBUG - Starting schedule thread
+2025-04-16 23:47:07,467 - DEBUG - Setting up system tray
+2025-04-16 23:47:07,467 - INFO - Launching GUI
+2025-04-16 23:47:07,467 - INFO - Asking for password
+2025-04-16 23:47:07,554 - DEBUG - Importing AvifImagePlugin
+2025-04-16 23:47:07,557 - DEBUG - Importing BlpImagePlugin
+2025-04-16 23:47:07,558 - DEBUG - Importing BmpImagePlugin
+2025-04-16 23:47:07,559 - DEBUG - Importing BufrStubImagePlugin
+2025-04-16 23:47:07,559 - DEBUG - Importing CurImagePlugin
+2025-04-16 23:47:07,560 - DEBUG - Importing DcxImagePlugin
+2025-04-16 23:47:07,562 - DEBUG - Importing DdsImagePlugin
+2025-04-16 23:47:07,565 - DEBUG - Importing EpsImagePlugin
+2025-04-16 23:47:07,566 - DEBUG - Importing FitsImagePlugin
+2025-04-16 23:47:07,568 - DEBUG - Importing FliImagePlugin
+2025-04-16 23:47:07,569 - DEBUG - Importing FpxImagePlugin
+2025-04-16 23:47:07,572 - DEBUG - Importing FtexImagePlugin
+2025-04-16 23:47:07,574 - DEBUG - Importing GbrImagePlugin
+2025-04-16 23:47:07,575 - DEBUG - Importing GifImagePlugin
+2025-04-16 23:47:07,576 - DEBUG - Importing GribStubImagePlugin
+2025-04-16 23:47:07,577 - DEBUG - Importing Hdf5StubImagePlugin
+2025-04-16 23:47:07,579 - DEBUG - Importing IcnsImagePlugin
+2025-04-16 23:47:07,582 - DEBUG - Importing IcoImagePlugin
+2025-04-16 23:47:07,583 - DEBUG - Importing ImImagePlugin
+2025-04-16 23:47:07,586 - DEBUG - Importing ImtImagePlugin
+2025-04-16 23:47:07,587 - DEBUG - Importing IptcImagePlugin
+2025-04-16 23:47:07,589 - DEBUG - Importing JpegImagePlugin
+2025-04-16 23:47:07,589 - DEBUG - Importing Jpeg2KImagePlugin
+2025-04-16 23:47:07,589 - DEBUG - Importing McIdasImagePlugin
+2025-04-16 23:47:07,590 - DEBUG - Importing MicImagePlugin
+2025-04-16 23:47:07,601 - DEBUG - Importing MpegImagePlugin
+2025-04-16 23:47:07,601 - DEBUG - Importing MpoImagePlugin
+2025-04-16 23:47:07,601 - DEBUG - Importing MspImagePlugin
+2025-04-16 23:47:07,601 - DEBUG - Importing PalmImagePlugin
+2025-04-16 23:47:07,601 - DEBUG - Importing PcdImagePlugin
+2025-04-16 23:47:07,607 - DEBUG - Importing PcxImagePlugin
+2025-04-16 23:47:07,607 - DEBUG - Importing PdfImagePlugin
+2025-04-16 23:47:07,613 - DEBUG - Importing PixarImagePlugin
+2025-04-16 23:47:07,613 - DEBUG - Importing PngImagePlugin
+2025-04-16 23:47:07,613 - DEBUG - Importing PpmImagePlugin
+2025-04-16 23:47:07,613 - DEBUG - Importing PsdImagePlugin
+2025-04-16 23:47:07,613 - DEBUG - Importing QoiImagePlugin
+2025-04-16 23:47:07,613 - DEBUG - Importing SgiImagePlugin
+2025-04-16 23:47:07,618 - DEBUG - Importing SpiderImagePlugin
+2025-04-16 23:47:07,619 - DEBUG - Importing SunImagePlugin
+2025-04-16 23:47:07,619 - DEBUG - Importing TgaImagePlugin
+2025-04-16 23:47:07,620 - DEBUG - Importing TiffImagePlugin
+2025-04-16 23:47:07,620 - DEBUG - Importing WebPImagePlugin
+2025-04-16 23:47:07,620 - DEBUG - Importing WmfImagePlugin
+2025-04-16 23:47:07,624 - DEBUG - Importing XbmImagePlugin
+2025-04-16 23:47:07,625 - DEBUG - Importing XpmImagePlugin
+2025-04-16 23:47:07,626 - DEBUG - Importing XVThumbImagePlugin
+2025-04-16 23:47:15,484 - INFO - Password check result: True
+2025-04-16 23:47:15,546 - INFO - Initializing GUI
+2025-04-16 23:47:15,561 - INFO - Setting up UI components
+2025-04-16 23:47:15,620 - INFO - UI components setup completed
+2025-04-16 23:47:15,620 - INFO - GUI setup completed
+2025-04-16 23:47:15,620 - INFO - Starting main loop
+2025-04-16 23:47:27,407 - DEBUG - Showing settings window
+2025-04-16 23:48:12,459 - DEBUG - Showing settings window
+2025-04-16 23:48:20,960 - INFO - Application starting
+2025-04-16 23:48:20,960 - INFO - Starting main program
+2025-04-16 23:48:20,960 - DEBUG - Starting schedule thread
+2025-04-16 23:48:20,960 - DEBUG - Setting up system tray
+2025-04-16 23:48:20,960 - INFO - Launching GUI
+2025-04-16 23:48:20,960 - INFO - Asking for password
+2025-04-16 23:48:21,057 - DEBUG - Importing AvifImagePlugin
+2025-04-16 23:48:21,057 - DEBUG - Importing BlpImagePlugin
+2025-04-16 23:48:21,060 - DEBUG - Importing BmpImagePlugin
+2025-04-16 23:48:21,061 - DEBUG - Importing BufrStubImagePlugin
+2025-04-16 23:48:21,062 - DEBUG - Importing CurImagePlugin
+2025-04-16 23:48:21,063 - DEBUG - Importing DcxImagePlugin
+2025-04-16 23:48:21,065 - DEBUG - Importing DdsImagePlugin
+2025-04-16 23:48:21,069 - DEBUG - Importing EpsImagePlugin
+2025-04-16 23:48:21,070 - DEBUG - Importing FitsImagePlugin
+2025-04-16 23:48:21,072 - DEBUG - Importing FliImagePlugin
+2025-04-16 23:48:21,074 - DEBUG - Importing FpxImagePlugin
+2025-04-16 23:48:21,078 - DEBUG - Importing FtexImagePlugin
+2025-04-16 23:48:21,079 - DEBUG - Importing GbrImagePlugin
+2025-04-16 23:48:21,080 - DEBUG - Importing GifImagePlugin
+2025-04-16 23:48:21,081 - DEBUG - Importing GribStubImagePlugin
+2025-04-16 23:48:21,083 - DEBUG - Importing Hdf5StubImagePlugin
+2025-04-16 23:48:21,084 - DEBUG - Importing IcnsImagePlugin
+2025-04-16 23:48:21,086 - DEBUG - Importing IcoImagePlugin
+2025-04-16 23:48:21,089 - DEBUG - Importing ImImagePlugin
+2025-04-16 23:48:21,090 - DEBUG - Importing ImtImagePlugin
+2025-04-16 23:48:21,092 - DEBUG - Importing IptcImagePlugin
+2025-04-16 23:48:21,093 - DEBUG - Importing JpegImagePlugin
+2025-04-16 23:48:21,093 - DEBUG - Importing Jpeg2KImagePlugin
+2025-04-16 23:48:21,093 - DEBUG - Importing McIdasImagePlugin
+2025-04-16 23:48:21,096 - DEBUG - Importing MicImagePlugin
+2025-04-16 23:48:21,105 - DEBUG - Importing MpegImagePlugin
+2025-04-16 23:48:21,106 - DEBUG - Importing MpoImagePlugin
+2025-04-16 23:48:21,107 - DEBUG - Importing MspImagePlugin
+2025-04-16 23:48:21,108 - DEBUG - Importing PalmImagePlugin
+2025-04-16 23:48:21,109 - DEBUG - Importing PcdImagePlugin
+2025-04-16 23:48:21,109 - DEBUG - Importing PcxImagePlugin
+2025-04-16 23:48:21,109 - DEBUG - Importing PdfImagePlugin
+2025-04-16 23:48:21,116 - DEBUG - Importing PixarImagePlugin
+2025-04-16 23:48:21,116 - DEBUG - Importing PngImagePlugin
+2025-04-16 23:48:21,116 - DEBUG - Importing PpmImagePlugin
+2025-04-16 23:48:21,116 - DEBUG - Importing PsdImagePlugin
+2025-04-16 23:48:21,116 - DEBUG - Importing QoiImagePlugin
+2025-04-16 23:48:21,121 - DEBUG - Importing SgiImagePlugin
+2025-04-16 23:48:21,121 - DEBUG - Importing SpiderImagePlugin
+2025-04-16 23:48:21,122 - DEBUG - Importing SunImagePlugin
+2025-04-16 23:48:21,123 - DEBUG - Importing TgaImagePlugin
+2025-04-16 23:48:21,123 - DEBUG - Importing TiffImagePlugin
+2025-04-16 23:48:21,123 - DEBUG - Importing WebPImagePlugin
+2025-04-16 23:48:21,123 - DEBUG - Importing WmfImagePlugin
+2025-04-16 23:48:21,123 - DEBUG - Importing XbmImagePlugin
+2025-04-16 23:48:21,123 - DEBUG - Importing XpmImagePlugin
+2025-04-16 23:48:21,129 - DEBUG - Importing XVThumbImagePlugin
+2025-04-16 23:48:28,542 - INFO - Password check result: True
+2025-04-16 23:48:28,601 - INFO - Initializing GUI
+2025-04-16 23:48:28,616 - INFO - Setting up UI components
+2025-04-16 23:48:28,679 - INFO - UI components setup completed
+2025-04-16 23:48:28,679 - INFO - GUI setup completed
+2025-04-16 23:48:28,679 - INFO - Starting main loop
+2025-04-16 23:48:30,333 - DEBUG - Showing settings window
+2025-04-16 23:48:45,325 - ERROR - Error sending test email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-22c33fccafcsm17494365ad.205 - gsmtp')
+2025-04-16 23:49:03,747 - ERROR - Error sending test email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-308611d6c0dsm1949280a91.6 - gsmtp')
+2025-04-16 23:51:20,133 - INFO - Application starting
+2025-04-16 23:51:20,133 - INFO - Starting main program
+2025-04-16 23:51:20,135 - DEBUG - Starting schedule thread
+2025-04-16 23:51:20,135 - DEBUG - Setting up system tray
+2025-04-16 23:51:20,135 - INFO - Launching GUI
+2025-04-16 23:51:20,136 - INFO - Asking for password
+2025-04-16 23:51:20,242 - DEBUG - Importing AvifImagePlugin
+2025-04-16 23:51:20,243 - DEBUG - Importing BlpImagePlugin
+2025-04-16 23:51:20,245 - DEBUG - Importing BmpImagePlugin
+2025-04-16 23:51:20,246 - DEBUG - Importing BufrStubImagePlugin
+2025-04-16 23:51:20,247 - DEBUG - Importing CurImagePlugin
+2025-04-16 23:51:20,248 - DEBUG - Importing DcxImagePlugin
+2025-04-16 23:51:20,250 - DEBUG - Importing DdsImagePlugin
+2025-04-16 23:51:20,253 - DEBUG - Importing EpsImagePlugin
+2025-04-16 23:51:20,255 - DEBUG - Importing FitsImagePlugin
+2025-04-16 23:51:20,258 - DEBUG - Importing FliImagePlugin
+2025-04-16 23:51:20,259 - DEBUG - Importing FpxImagePlugin
+2025-04-16 23:51:20,262 - DEBUG - Importing FtexImagePlugin
+2025-04-16 23:51:20,263 - DEBUG - Importing GbrImagePlugin
+2025-04-16 23:51:20,266 - DEBUG - Importing GifImagePlugin
+2025-04-16 23:51:20,266 - DEBUG - Importing GribStubImagePlugin
+2025-04-16 23:51:20,268 - DEBUG - Importing Hdf5StubImagePlugin
+2025-04-16 23:51:20,269 - DEBUG - Importing IcnsImagePlugin
+2025-04-16 23:51:20,272 - DEBUG - Importing IcoImagePlugin
+2025-04-16 23:51:20,273 - DEBUG - Importing ImImagePlugin
+2025-04-16 23:51:20,275 - DEBUG - Importing ImtImagePlugin
+2025-04-16 23:51:20,276 - DEBUG - Importing IptcImagePlugin
+2025-04-16 23:51:20,277 - DEBUG - Importing JpegImagePlugin
+2025-04-16 23:51:20,277 - DEBUG - Importing Jpeg2KImagePlugin
+2025-04-16 23:51:20,277 - DEBUG - Importing McIdasImagePlugin
+2025-04-16 23:51:20,281 - DEBUG - Importing MicImagePlugin
+2025-04-16 23:51:20,291 - DEBUG - Importing MpegImagePlugin
+2025-04-16 23:51:20,292 - DEBUG - Importing MpoImagePlugin
+2025-04-16 23:51:20,294 - DEBUG - Importing MspImagePlugin
+2025-04-16 23:51:20,296 - DEBUG - Importing PalmImagePlugin
+2025-04-16 23:51:20,297 - DEBUG - Importing PcdImagePlugin
+2025-04-16 23:51:20,298 - DEBUG - Importing PcxImagePlugin
+2025-04-16 23:51:20,298 - DEBUG - Importing PdfImagePlugin
+2025-04-16 23:51:20,301 - DEBUG - Importing PixarImagePlugin
+2025-04-16 23:51:20,306 - DEBUG - Importing PngImagePlugin
+2025-04-16 23:51:20,306 - DEBUG - Importing PpmImagePlugin
+2025-04-16 23:51:20,306 - DEBUG - Importing PsdImagePlugin
+2025-04-16 23:51:20,307 - DEBUG - Importing QoiImagePlugin
+2025-04-16 23:51:20,308 - DEBUG - Importing SgiImagePlugin
+2025-04-16 23:51:20,308 - DEBUG - Importing SpiderImagePlugin
+2025-04-16 23:51:20,308 - DEBUG - Importing SunImagePlugin
+2025-04-16 23:51:20,310 - DEBUG - Importing TgaImagePlugin
+2025-04-16 23:51:20,311 - DEBUG - Importing TiffImagePlugin
+2025-04-16 23:51:20,311 - DEBUG - Importing WebPImagePlugin
+2025-04-16 23:51:20,313 - DEBUG - Importing WmfImagePlugin
+2025-04-16 23:51:20,314 - DEBUG - Importing XbmImagePlugin
+2025-04-16 23:51:20,315 - DEBUG - Importing XpmImagePlugin
+2025-04-16 23:51:20,315 - DEBUG - Importing XVThumbImagePlugin
+2025-04-16 23:51:26,367 - INFO - Password check result: True
+2025-04-16 23:51:26,432 - INFO - Initializing GUI
+2025-04-16 23:51:26,449 - INFO - Setting up UI components
+2025-04-16 23:51:26,508 - INFO - UI components setup completed
+2025-04-16 23:51:26,508 - INFO - GUI setup completed
+2025-04-16 23:51:26,509 - INFO - Starting main loop
+2025-04-16 23:51:40,948 - DEBUG - Showing settings window
+2025-04-16 23:59:37,910 - DEBUG - Showing settings window
+2025-04-17 00:00:08,197 - DEBUG - Toggling logging state
+2025-04-17 00:00:08,202 - DEBUG - Logged: --- Logging Started ---
+2025-04-17 00:00:08,202 - DEBUG - Keylogger started successfully
+2025-04-17 00:00:08,746 - DEBUG - Toggling logging state
+2025-04-17 00:00:08,746 - DEBUG - Logged: --- Logging Stopped ---
+2025-04-17 00:00:08,746 - DEBUG - Keylogger stopped successfully
+2025-04-17 00:03:50,456 - INFO - Application starting
+2025-04-17 00:03:50,456 - INFO - Starting main program
+2025-04-17 00:03:50,456 - DEBUG - Starting schedule thread
+2025-04-17 00:03:50,456 - DEBUG - Setting up system tray
+2025-04-17 00:03:50,456 - INFO - Launching GUI
+2025-04-17 00:03:50,456 - INFO - Asking for password
+2025-04-17 00:03:50,556 - DEBUG - Importing AvifImagePlugin
+2025-04-17 00:03:50,558 - DEBUG - Importing BlpImagePlugin
+2025-04-17 00:03:50,559 - DEBUG - Importing BmpImagePlugin
+2025-04-17 00:03:50,561 - DEBUG - Importing BufrStubImagePlugin
+2025-04-17 00:03:50,562 - DEBUG - Importing CurImagePlugin
+2025-04-17 00:03:50,563 - DEBUG - Importing DcxImagePlugin
+2025-04-17 00:03:50,564 - DEBUG - Importing DdsImagePlugin
+2025-04-17 00:03:50,567 - DEBUG - Importing EpsImagePlugin
+2025-04-17 00:03:50,570 - DEBUG - Importing FitsImagePlugin
+2025-04-17 00:03:50,571 - DEBUG - Importing FliImagePlugin
+2025-04-17 00:03:50,573 - DEBUG - Importing FpxImagePlugin
+2025-04-17 00:03:50,578 - DEBUG - Importing FtexImagePlugin
+2025-04-17 00:03:50,579 - DEBUG - Importing GbrImagePlugin
+2025-04-17 00:03:50,580 - DEBUG - Importing GifImagePlugin
+2025-04-17 00:03:50,580 - DEBUG - Importing GribStubImagePlugin
+2025-04-17 00:03:50,581 - DEBUG - Importing Hdf5StubImagePlugin
+2025-04-17 00:03:50,581 - DEBUG - Importing IcnsImagePlugin
+2025-04-17 00:03:50,585 - DEBUG - Importing IcoImagePlugin
+2025-04-17 00:03:50,586 - DEBUG - Importing ImImagePlugin
+2025-04-17 00:03:50,588 - DEBUG - Importing ImtImagePlugin
+2025-04-17 00:03:50,590 - DEBUG - Importing IptcImagePlugin
+2025-04-17 00:03:50,591 - DEBUG - Importing JpegImagePlugin
+2025-04-17 00:03:50,591 - DEBUG - Importing Jpeg2KImagePlugin
+2025-04-17 00:03:50,591 - DEBUG - Importing McIdasImagePlugin
+2025-04-17 00:03:50,593 - DEBUG - Importing MicImagePlugin
+2025-04-17 00:03:50,604 - DEBUG - Importing MpegImagePlugin
+2025-04-17 00:03:50,606 - DEBUG - Importing MpoImagePlugin
+2025-04-17 00:03:50,608 - DEBUG - Importing MspImagePlugin
+2025-04-17 00:03:50,610 - DEBUG - Importing PalmImagePlugin
+2025-04-17 00:03:50,612 - DEBUG - Importing PcdImagePlugin
+2025-04-17 00:03:50,612 - DEBUG - Importing PcxImagePlugin
+2025-04-17 00:03:50,612 - DEBUG - Importing PdfImagePlugin
+2025-04-17 00:03:50,620 - DEBUG - Importing PixarImagePlugin
+2025-04-17 00:03:50,621 - DEBUG - Importing PngImagePlugin
+2025-04-17 00:03:50,621 - DEBUG - Importing PpmImagePlugin
+2025-04-17 00:03:50,621 - DEBUG - Importing PsdImagePlugin
+2025-04-17 00:03:50,621 - DEBUG - Importing QoiImagePlugin
+2025-04-17 00:03:50,621 - DEBUG - Importing SgiImagePlugin
+2025-04-17 00:03:50,621 - DEBUG - Importing SpiderImagePlugin
+2025-04-17 00:03:50,621 - DEBUG - Importing SunImagePlugin
+2025-04-17 00:03:50,621 - DEBUG - Importing TgaImagePlugin
+2025-04-17 00:03:50,627 - DEBUG - Importing TiffImagePlugin
+2025-04-17 00:03:50,628 - DEBUG - Importing WebPImagePlugin
+2025-04-17 00:03:50,628 - DEBUG - Importing WmfImagePlugin
+2025-04-17 00:03:50,628 - DEBUG - Importing XbmImagePlugin
+2025-04-17 00:03:50,628 - DEBUG - Importing XpmImagePlugin
+2025-04-17 00:03:50,635 - DEBUG - Importing XVThumbImagePlugin
+2025-04-17 00:04:49,383 - INFO - Password check result: False
+2025-04-17 00:07:09,509 - INFO - Application starting
+2025-04-17 00:07:09,509 - INFO - Starting main program
+2025-04-17 00:07:09,510 - DEBUG - Starting schedule thread
+2025-04-17 00:07:09,511 - DEBUG - Setting up system tray
+2025-04-17 00:07:09,511 - INFO - Launching GUI
+2025-04-17 00:07:09,512 - INFO - Asking for password
+2025-04-17 00:07:09,592 - DEBUG - Importing AvifImagePlugin
+2025-04-17 00:07:09,593 - DEBUG - Importing BlpImagePlugin
+2025-04-17 00:07:09,595 - DEBUG - Importing BmpImagePlugin
+2025-04-17 00:07:09,596 - DEBUG - Importing BufrStubImagePlugin
+2025-04-17 00:07:09,597 - DEBUG - Importing CurImagePlugin
+2025-04-17 00:07:09,597 - DEBUG - Importing DcxImagePlugin
+2025-04-17 00:07:09,601 - DEBUG - Importing DdsImagePlugin
+2025-04-17 00:07:09,603 - DEBUG - Importing EpsImagePlugin
+2025-04-17 00:07:09,605 - DEBUG - Importing FitsImagePlugin
+2025-04-17 00:07:09,608 - DEBUG - Importing FliImagePlugin
+2025-04-17 00:07:09,609 - DEBUG - Importing FpxImagePlugin
+2025-04-17 00:07:09,612 - DEBUG - Importing FtexImagePlugin
+2025-04-17 00:07:09,613 - DEBUG - Importing GbrImagePlugin
+2025-04-17 00:07:09,613 - DEBUG - Importing GifImagePlugin
+2025-04-17 00:07:09,613 - DEBUG - Importing GribStubImagePlugin
+2025-04-17 00:07:09,614 - DEBUG - Importing Hdf5StubImagePlugin
+2025-04-17 00:07:09,615 - DEBUG - Importing IcnsImagePlugin
+2025-04-17 00:07:09,617 - DEBUG - Importing IcoImagePlugin
+2025-04-17 00:07:09,618 - DEBUG - Importing ImImagePlugin
+2025-04-17 00:07:09,620 - DEBUG - Importing ImtImagePlugin
+2025-04-17 00:07:09,620 - DEBUG - Importing IptcImagePlugin
+2025-04-17 00:07:09,621 - DEBUG - Importing JpegImagePlugin
+2025-04-17 00:07:09,622 - DEBUG - Importing Jpeg2KImagePlugin
+2025-04-17 00:07:09,622 - DEBUG - Importing McIdasImagePlugin
+2025-04-17 00:07:09,623 - DEBUG - Importing MicImagePlugin
+2025-04-17 00:07:09,630 - DEBUG - Importing MpegImagePlugin
+2025-04-17 00:07:09,631 - DEBUG - Importing MpoImagePlugin
+2025-04-17 00:07:09,633 - DEBUG - Importing MspImagePlugin
+2025-04-17 00:07:09,634 - DEBUG - Importing PalmImagePlugin
+2025-04-17 00:07:09,635 - DEBUG - Importing PcdImagePlugin
+2025-04-17 00:07:09,636 - DEBUG - Importing PcxImagePlugin
+2025-04-17 00:07:09,636 - DEBUG - Importing PdfImagePlugin
+2025-04-17 00:07:09,641 - DEBUG - Importing PixarImagePlugin
+2025-04-17 00:07:09,642 - DEBUG - Importing PngImagePlugin
+2025-04-17 00:07:09,643 - DEBUG - Importing PpmImagePlugin
+2025-04-17 00:07:09,643 - DEBUG - Importing PsdImagePlugin
+2025-04-17 00:07:09,644 - DEBUG - Importing QoiImagePlugin
+2025-04-17 00:07:09,645 - DEBUG - Importing SgiImagePlugin
+2025-04-17 00:07:09,646 - DEBUG - Importing SpiderImagePlugin
+2025-04-17 00:07:09,646 - DEBUG - Importing SunImagePlugin
+2025-04-17 00:07:09,647 - DEBUG - Importing TgaImagePlugin
+2025-04-17 00:07:09,648 - DEBUG - Importing TiffImagePlugin
+2025-04-17 00:07:09,648 - DEBUG - Importing WebPImagePlugin
+2025-04-17 00:07:09,650 - DEBUG - Importing WmfImagePlugin
+2025-04-17 00:07:09,650 - DEBUG - Importing XbmImagePlugin
+2025-04-17 00:07:09,650 - DEBUG - Importing XpmImagePlugin
+2025-04-17 00:07:09,655 - DEBUG - Importing XVThumbImagePlugin
+2025-04-17 00:08:05,244 - INFO - Password check result: False
+2025-04-17 00:23:56,291 - INFO - Application starting
+2025-04-17 00:23:56,291 - INFO - Starting main program
+2025-04-17 00:23:56,291 - DEBUG - Starting schedule thread
+2025-04-17 00:23:56,291 - DEBUG - Setting up system tray
+2025-04-17 00:23:56,291 - INFO - Launching GUI
+2025-04-17 00:23:56,291 - INFO - Asking for password
+2025-04-17 00:23:56,394 - DEBUG - Importing AvifImagePlugin
+2025-04-17 00:23:56,396 - DEBUG - Importing BlpImagePlugin
+2025-04-17 00:23:56,398 - DEBUG - Importing BmpImagePlugin
+2025-04-17 00:23:56,398 - DEBUG - Importing BufrStubImagePlugin
+2025-04-17 00:23:56,399 - DEBUG - Importing CurImagePlugin
+2025-04-17 00:23:56,400 - DEBUG - Importing DcxImagePlugin
+2025-04-17 00:23:56,402 - DEBUG - Importing DdsImagePlugin
+2025-04-17 00:23:56,404 - DEBUG - Importing EpsImagePlugin
+2025-04-17 00:23:56,406 - DEBUG - Importing FitsImagePlugin
+2025-04-17 00:23:56,409 - DEBUG - Importing FliImagePlugin
+2025-04-17 00:23:56,410 - DEBUG - Importing FpxImagePlugin
+2025-04-17 00:23:56,413 - DEBUG - Importing FtexImagePlugin
+2025-04-17 00:23:56,414 - DEBUG - Importing GbrImagePlugin
+2025-04-17 00:23:56,415 - DEBUG - Importing GifImagePlugin
+2025-04-17 00:23:56,415 - DEBUG - Importing GribStubImagePlugin
+2025-04-17 00:23:56,416 - DEBUG - Importing Hdf5StubImagePlugin
+2025-04-17 00:23:56,417 - DEBUG - Importing IcnsImagePlugin
+2025-04-17 00:23:56,419 - DEBUG - Importing IcoImagePlugin
+2025-04-17 00:23:56,420 - DEBUG - Importing ImImagePlugin
+2025-04-17 00:23:56,422 - DEBUG - Importing ImtImagePlugin
+2025-04-17 00:23:56,424 - DEBUG - Importing IptcImagePlugin
+2025-04-17 00:23:56,424 - DEBUG - Importing JpegImagePlugin
+2025-04-17 00:23:56,425 - DEBUG - Importing Jpeg2KImagePlugin
+2025-04-17 00:23:56,425 - DEBUG - Importing McIdasImagePlugin
+2025-04-17 00:23:56,426 - DEBUG - Importing MicImagePlugin
+2025-04-17 00:23:56,433 - DEBUG - Importing MpegImagePlugin
+2025-04-17 00:23:56,434 - DEBUG - Importing MpoImagePlugin
+2025-04-17 00:23:56,435 - DEBUG - Importing MspImagePlugin
+2025-04-17 00:23:56,437 - DEBUG - Importing PalmImagePlugin
+2025-04-17 00:23:56,438 - DEBUG - Importing PcdImagePlugin
+2025-04-17 00:23:56,439 - DEBUG - Importing PcxImagePlugin
+2025-04-17 00:23:56,439 - DEBUG - Importing PdfImagePlugin
+2025-04-17 00:23:56,444 - DEBUG - Importing PixarImagePlugin
+2025-04-17 00:23:56,445 - DEBUG - Importing PngImagePlugin
+2025-04-17 00:23:56,446 - DEBUG - Importing PpmImagePlugin
+2025-04-17 00:23:56,446 - DEBUG - Importing PsdImagePlugin
+2025-04-17 00:23:56,446 - DEBUG - Importing QoiImagePlugin
+2025-04-17 00:23:56,446 - DEBUG - Importing SgiImagePlugin
+2025-04-17 00:23:56,446 - DEBUG - Importing SpiderImagePlugin
+2025-04-17 00:23:56,451 - DEBUG - Importing SunImagePlugin
+2025-04-17 00:23:56,452 - DEBUG - Importing TgaImagePlugin
+2025-04-17 00:23:56,452 - DEBUG - Importing TiffImagePlugin
+2025-04-17 00:23:56,453 - DEBUG - Importing WebPImagePlugin
+2025-04-17 00:23:56,454 - DEBUG - Importing WmfImagePlugin
+2025-04-17 00:23:56,455 - DEBUG - Importing XbmImagePlugin
+2025-04-17 00:23:56,457 - DEBUG - Importing XpmImagePlugin
+2025-04-17 00:23:56,459 - DEBUG - Importing XVThumbImagePlugin
+2025-04-17 00:24:09,793 - INFO - Password check result: False
+2025-04-17 00:26:19,663 - INFO - Application starting
+2025-04-17 00:26:19,663 - INFO - Starting main program
+2025-04-17 00:26:19,679 - DEBUG - Starting schedule thread
+2025-04-17 00:26:19,679 - DEBUG - Setting up system tray
+2025-04-17 00:26:19,679 - INFO - Launching GUI
+2025-04-17 00:26:19,681 - INFO - Asking for password
+2025-04-17 00:26:19,771 - DEBUG - Importing AvifImagePlugin
+2025-04-17 00:26:19,773 - DEBUG - Importing BlpImagePlugin
+2025-04-17 00:26:19,774 - DEBUG - Importing BmpImagePlugin
+2025-04-17 00:26:19,774 - DEBUG - Importing BufrStubImagePlugin
+2025-04-17 00:26:19,776 - DEBUG - Importing CurImagePlugin
+2025-04-17 00:26:19,777 - DEBUG - Importing DcxImagePlugin
+2025-04-17 00:26:19,779 - DEBUG - Importing DdsImagePlugin
+2025-04-17 00:26:19,782 - DEBUG - Importing EpsImagePlugin
+2025-04-17 00:26:19,784 - DEBUG - Importing FitsImagePlugin
+2025-04-17 00:26:19,787 - DEBUG - Importing FliImagePlugin
+2025-04-17 00:26:19,788 - DEBUG - Importing FpxImagePlugin
+2025-04-17 00:26:19,791 - DEBUG - Importing FtexImagePlugin
+2025-04-17 00:26:19,792 - DEBUG - Importing GbrImagePlugin
+2025-04-17 00:26:19,793 - DEBUG - Importing GifImagePlugin
+2025-04-17 00:26:19,793 - DEBUG - Importing GribStubImagePlugin
+2025-04-17 00:26:19,794 - DEBUG - Importing Hdf5StubImagePlugin
+2025-04-17 00:26:19,795 - DEBUG - Importing IcnsImagePlugin
+2025-04-17 00:26:19,797 - DEBUG - Importing IcoImagePlugin
+2025-04-17 00:26:19,798 - DEBUG - Importing ImImagePlugin
+2025-04-17 00:26:19,800 - DEBUG - Importing ImtImagePlugin
+2025-04-17 00:26:19,801 - DEBUG - Importing IptcImagePlugin
+2025-04-17 00:26:19,802 - DEBUG - Importing JpegImagePlugin
+2025-04-17 00:26:19,802 - DEBUG - Importing Jpeg2KImagePlugin
+2025-04-17 00:26:19,802 - DEBUG - Importing McIdasImagePlugin
+2025-04-17 00:26:19,803 - DEBUG - Importing MicImagePlugin
+2025-04-17 00:26:19,813 - DEBUG - Importing MpegImagePlugin
+2025-04-17 00:26:19,814 - DEBUG - Importing MpoImagePlugin
+2025-04-17 00:26:19,815 - DEBUG - Importing MspImagePlugin
+2025-04-17 00:26:19,816 - DEBUG - Importing PalmImagePlugin
+2025-04-17 00:26:19,818 - DEBUG - Importing PcdImagePlugin
+2025-04-17 00:26:19,819 - DEBUG - Importing PcxImagePlugin
+2025-04-17 00:26:19,819 - DEBUG - Importing PdfImagePlugin
+2025-04-17 00:26:19,824 - DEBUG - Importing PixarImagePlugin
+2025-04-17 00:26:19,826 - DEBUG - Importing PngImagePlugin
+2025-04-17 00:26:19,826 - DEBUG - Importing PpmImagePlugin
+2025-04-17 00:26:19,826 - DEBUG - Importing PsdImagePlugin
+2025-04-17 00:26:19,827 - DEBUG - Importing QoiImagePlugin
+2025-04-17 00:26:19,828 - DEBUG - Importing SgiImagePlugin
+2025-04-17 00:26:19,829 - DEBUG - Importing SpiderImagePlugin
+2025-04-17 00:26:19,830 - DEBUG - Importing SunImagePlugin
+2025-04-17 00:26:19,830 - DEBUG - Importing TgaImagePlugin
+2025-04-17 00:26:19,831 - DEBUG - Importing TiffImagePlugin
+2025-04-17 00:26:19,832 - DEBUG - Importing WebPImagePlugin
+2025-04-17 00:26:19,833 - DEBUG - Importing WmfImagePlugin
+2025-04-17 00:26:19,835 - DEBUG - Importing XbmImagePlugin
+2025-04-17 00:26:19,839 - DEBUG - Importing XpmImagePlugin
+2025-04-17 00:26:19,840 - DEBUG - Importing XVThumbImagePlugin
+2025-04-17 00:26:26,826 - INFO - Initializing GUI
+2025-04-17 00:26:26,844 - INFO - Setting up UI components
+2025-04-17 00:26:26,916 - INFO - UI components setup completed
+2025-04-17 00:26:26,916 - INFO - GUI setup completed
+2025-04-17 00:26:26,916 - INFO - Starting main loop
+2025-04-17 00:26:31,299 - DEBUG - Opening log viewer window
+2025-04-17 00:27:27,747 - INFO - Application starting
+2025-04-17 00:27:27,747 - INFO - Starting main program
+2025-04-17 00:27:27,747 - DEBUG - Starting schedule thread
+2025-04-17 00:27:27,747 - DEBUG - Setting up system tray
+2025-04-17 00:27:27,747 - INFO - Launching GUI
+2025-04-17 00:27:27,747 - INFO - Asking for password
+2025-04-17 00:27:27,843 - DEBUG - Importing AvifImagePlugin
+2025-04-17 00:27:27,843 - DEBUG - Importing BlpImagePlugin
+2025-04-17 00:27:27,843 - DEBUG - Importing BmpImagePlugin
+2025-04-17 00:27:27,843 - DEBUG - Importing BufrStubImagePlugin
+2025-04-17 00:27:27,843 - DEBUG - Importing CurImagePlugin
+2025-04-17 00:27:27,843 - DEBUG - Importing DcxImagePlugin
+2025-04-17 00:27:27,843 - DEBUG - Importing DdsImagePlugin
+2025-04-17 00:27:27,843 - DEBUG - Importing EpsImagePlugin
+2025-04-17 00:27:27,843 - DEBUG - Importing FitsImagePlugin
+2025-04-17 00:27:27,857 - DEBUG - Importing FliImagePlugin
+2025-04-17 00:27:27,857 - DEBUG - Importing FpxImagePlugin
+2025-04-17 00:27:27,857 - DEBUG - Importing FtexImagePlugin
+2025-04-17 00:27:27,857 - DEBUG - Importing GbrImagePlugin
+2025-04-17 00:27:27,857 - DEBUG - Importing GifImagePlugin
+2025-04-17 00:27:27,857 - DEBUG - Importing GribStubImagePlugin
+2025-04-17 00:27:27,857 - DEBUG - Importing Hdf5StubImagePlugin
+2025-04-17 00:27:27,857 - DEBUG - Importing IcnsImagePlugin
+2025-04-17 00:27:27,857 - DEBUG - Importing IcoImagePlugin
+2025-04-17 00:27:27,857 - DEBUG - Importing ImImagePlugin
+2025-04-17 00:27:27,857 - DEBUG - Importing ImtImagePlugin
+2025-04-17 00:27:27,857 - DEBUG - Importing IptcImagePlugin
+2025-04-17 00:27:27,857 - DEBUG - Importing JpegImagePlugin
+2025-04-17 00:27:27,857 - DEBUG - Importing Jpeg2KImagePlugin
+2025-04-17 00:27:27,857 - DEBUG - Importing McIdasImagePlugin
+2025-04-17 00:27:27,857 - DEBUG - Importing MicImagePlugin
+2025-04-17 00:27:27,873 - DEBUG - Importing MpegImagePlugin
+2025-04-17 00:27:27,873 - DEBUG - Importing MpoImagePlugin
+2025-04-17 00:27:27,873 - DEBUG - Importing MspImagePlugin
+2025-04-17 00:27:27,873 - DEBUG - Importing PalmImagePlugin
+2025-04-17 00:27:27,873 - DEBUG - Importing PcdImagePlugin
+2025-04-17 00:27:27,873 - DEBUG - Importing PcxImagePlugin
+2025-04-17 00:27:27,873 - DEBUG - Importing PdfImagePlugin
+2025-04-17 00:27:27,889 - DEBUG - Importing PixarImagePlugin
+2025-04-17 00:27:27,889 - DEBUG - Importing PngImagePlugin
+2025-04-17 00:27:27,889 - DEBUG - Importing PpmImagePlugin
+2025-04-17 00:27:27,889 - DEBUG - Importing PsdImagePlugin
+2025-04-17 00:27:27,889 - DEBUG - Importing QoiImagePlugin
+2025-04-17 00:27:27,889 - DEBUG - Importing SgiImagePlugin
+2025-04-17 00:27:27,889 - DEBUG - Importing SpiderImagePlugin
+2025-04-17 00:27:27,889 - DEBUG - Importing SunImagePlugin
+2025-04-17 00:27:27,889 - DEBUG - Importing TgaImagePlugin
+2025-04-17 00:27:27,889 - DEBUG - Importing TiffImagePlugin
+2025-04-17 00:27:27,889 - DEBUG - Importing WebPImagePlugin
+2025-04-17 00:27:27,889 - DEBUG - Importing WmfImagePlugin
+2025-04-17 00:27:27,889 - DEBUG - Importing XbmImagePlugin
+2025-04-17 00:27:27,889 - DEBUG - Importing XpmImagePlugin
+2025-04-17 00:27:27,905 - DEBUG - Importing XVThumbImagePlugin
+2025-04-17 00:28:04,997 - INFO - Initializing GUI
+2025-04-17 00:28:05,021 - INFO - Setting up UI components
+2025-04-17 00:28:05,076 - INFO - UI components setup completed
+2025-04-17 00:28:05,076 - INFO - GUI setup completed
+2025-04-17 00:28:05,076 - INFO - Starting main loop
+2025-04-17 00:28:11,318 - DEBUG - Toggling logging state
+2025-04-17 00:28:11,318 - DEBUG - Logged: --- Logging Started ---
+2025-04-17 00:28:11,318 - DEBUG - Keylogger started successfully
+2025-04-17 00:28:17,720 - DEBUG - Logged: Window Change: Secure Keylogger
+2025-04-17 00:28:17,720 - DEBUG - Window changed to: Secure Keylogger
+2025-04-17 00:28:17,720 - DEBUG - Logged: Special Key Pressed: [PRINT_SCREEN]
+2025-04-17 00:28:25,637 - DEBUG - Opening log viewer window
+2025-04-17 00:28:35,711 - DEBUG - Logged: Window Change: Log Viewer
+2025-04-17 00:28:35,711 - DEBUG - Window changed to: Log Viewer
+2025-04-17 00:28:35,711 - DEBUG - Logged: Special Key Pressed: [PRINT_SCREEN]
+2025-04-17 00:28:48,070 - DEBUG - Logged: Special Key Pressed: [PRINT_SCREEN]
+2025-04-17 00:28:48,446 - DEBUG - Logged: Special Key Pressed: [PRINT_SCREEN]
+2025-04-17 00:28:58,636 - DEBUG - Logged: Special Key Pressed: [PRINT_SCREEN]
+2025-04-17 00:29:07,822 - DEBUG - Logged: Special Key Pressed: [PRINT_SCREEN]
+2025-04-17 00:29:15,469 - DEBUG - Showing settings window
+2025-04-17 00:29:24,043 - DEBUG - Toggling logging state
+2025-04-17 00:29:24,043 - DEBUG - Logged: --- Logging Stopped ---
+2025-04-17 00:29:24,043 - DEBUG - Keylogger stopped successfully
+2025-04-17 00:29:24,810 - DEBUG - Showing settings window
+2025-04-17 00:31:29,038 - INFO - Application starting
+2025-04-17 00:31:29,038 - INFO - Starting main program
+2025-04-17 00:31:29,053 - DEBUG - Starting schedule thread
+2025-04-17 00:31:29,053 - DEBUG - Setting up system tray
+2025-04-17 00:31:29,053 - INFO - Launching GUI
+2025-04-17 00:31:29,053 - INFO - Asking for password
+2025-04-17 00:31:29,135 - DEBUG - Importing AvifImagePlugin
+2025-04-17 00:31:29,137 - DEBUG - Importing BlpImagePlugin
+2025-04-17 00:31:29,138 - DEBUG - Importing BmpImagePlugin
+2025-04-17 00:31:29,138 - DEBUG - Importing BufrStubImagePlugin
+2025-04-17 00:31:29,140 - DEBUG - Importing CurImagePlugin
+2025-04-17 00:31:29,141 - DEBUG - Importing DcxImagePlugin
+2025-04-17 00:31:29,144 - DEBUG - Importing DdsImagePlugin
+2025-04-17 00:31:29,147 - DEBUG - Importing EpsImagePlugin
+2025-04-17 00:31:29,149 - DEBUG - Importing FitsImagePlugin
+2025-04-17 00:31:29,152 - DEBUG - Importing FliImagePlugin
+2025-04-17 00:31:29,154 - DEBUG - Importing FpxImagePlugin
+2025-04-17 00:31:29,157 - DEBUG - Importing FtexImagePlugin
+2025-04-17 00:31:29,159 - DEBUG - Importing GbrImagePlugin
+2025-04-17 00:31:29,160 - DEBUG - Importing GifImagePlugin
+2025-04-17 00:31:29,160 - DEBUG - Importing GribStubImagePlugin
+2025-04-17 00:31:29,161 - DEBUG - Importing Hdf5StubImagePlugin
+2025-04-17 00:31:29,162 - DEBUG - Importing IcnsImagePlugin
+2025-04-17 00:31:29,164 - DEBUG - Importing IcoImagePlugin
+2025-04-17 00:31:29,166 - DEBUG - Importing ImImagePlugin
+2025-04-17 00:31:29,167 - DEBUG - Importing ImtImagePlugin
+2025-04-17 00:31:29,168 - DEBUG - Importing IptcImagePlugin
+2025-04-17 00:31:29,169 - DEBUG - Importing JpegImagePlugin
+2025-04-17 00:31:29,169 - DEBUG - Importing Jpeg2KImagePlugin
+2025-04-17 00:31:29,169 - DEBUG - Importing McIdasImagePlugin
+2025-04-17 00:31:29,170 - DEBUG - Importing MicImagePlugin
+2025-04-17 00:31:29,178 - DEBUG - Importing MpegImagePlugin
+2025-04-17 00:31:29,180 - DEBUG - Importing MpoImagePlugin
+2025-04-17 00:31:29,181 - DEBUG - Importing MspImagePlugin
+2025-04-17 00:31:29,182 - DEBUG - Importing PalmImagePlugin
+2025-04-17 00:31:29,184 - DEBUG - Importing PcdImagePlugin
+2025-04-17 00:31:29,185 - DEBUG - Importing PcxImagePlugin
+2025-04-17 00:31:29,185 - DEBUG - Importing PdfImagePlugin
+2025-04-17 00:31:29,188 - DEBUG - Importing PixarImagePlugin
+2025-04-17 00:31:29,188 - DEBUG - Importing PngImagePlugin
+2025-04-17 00:31:29,193 - DEBUG - Importing PpmImagePlugin
+2025-04-17 00:31:29,193 - DEBUG - Importing PsdImagePlugin
+2025-04-17 00:31:29,194 - DEBUG - Importing QoiImagePlugin
+2025-04-17 00:31:29,195 - DEBUG - Importing SgiImagePlugin
+2025-04-17 00:31:29,196 - DEBUG - Importing SpiderImagePlugin
+2025-04-17 00:31:29,196 - DEBUG - Importing SunImagePlugin
+2025-04-17 00:31:29,196 - DEBUG - Importing TgaImagePlugin
+2025-04-17 00:31:29,200 - DEBUG - Importing TiffImagePlugin
+2025-04-17 00:31:29,200 - DEBUG - Importing WebPImagePlugin
+2025-04-17 00:31:29,202 - DEBUG - Importing WmfImagePlugin
+2025-04-17 00:31:29,202 - DEBUG - Importing XbmImagePlugin
+2025-04-17 00:31:29,205 - DEBUG - Importing XpmImagePlugin
+2025-04-17 00:31:29,207 - DEBUG - Importing XVThumbImagePlugin
+2025-04-17 00:31:34,960 - INFO - Initializing GUI
+2025-04-17 00:31:34,983 - INFO - Setting up UI components
+2025-04-17 00:31:35,056 - INFO - UI components setup completed
+2025-04-17 00:31:35,056 - INFO - GUI setup completed
+2025-04-17 00:31:35,057 - INFO - Starting main loop
+2025-04-17 00:31:37,234 - DEBUG - Showing settings window
+2025-04-17 00:32:10,410 - DEBUG - Showing settings window
+2025-04-17 00:33:43,367 - INFO - Application starting
+2025-04-17 00:33:43,367 - INFO - Starting main program
+2025-04-17 00:33:43,367 - DEBUG - Starting schedule thread
+2025-04-17 00:33:43,367 - DEBUG - Setting up system tray
+2025-04-17 00:33:43,367 - INFO - Launching GUI
+2025-04-17 00:33:43,367 - INFO - Asking for password
+2025-04-17 00:33:43,459 - DEBUG - Importing AvifImagePlugin
+2025-04-17 00:33:43,461 - DEBUG - Importing BlpImagePlugin
+2025-04-17 00:33:43,463 - DEBUG - Importing BmpImagePlugin
+2025-04-17 00:33:43,463 - DEBUG - Importing BufrStubImagePlugin
+2025-04-17 00:33:43,464 - DEBUG - Importing CurImagePlugin
+2025-04-17 00:33:43,465 - DEBUG - Importing DcxImagePlugin
+2025-04-17 00:33:43,467 - DEBUG - Importing DdsImagePlugin
+2025-04-17 00:33:43,470 - DEBUG - Importing EpsImagePlugin
+2025-04-17 00:33:43,472 - DEBUG - Importing FitsImagePlugin
+2025-04-17 00:33:43,474 - DEBUG - Importing FliImagePlugin
+2025-04-17 00:33:43,474 - DEBUG - Importing FpxImagePlugin
+2025-04-17 00:33:43,479 - DEBUG - Importing FtexImagePlugin
+2025-04-17 00:33:43,480 - DEBUG - Importing GbrImagePlugin
+2025-04-17 00:33:43,481 - DEBUG - Importing GifImagePlugin
+2025-04-17 00:33:43,481 - DEBUG - Importing GribStubImagePlugin
+2025-04-17 00:33:43,481 - DEBUG - Importing Hdf5StubImagePlugin
+2025-04-17 00:33:43,483 - DEBUG - Importing IcnsImagePlugin
+2025-04-17 00:33:43,486 - DEBUG - Importing IcoImagePlugin
+2025-04-17 00:33:43,487 - DEBUG - Importing ImImagePlugin
+2025-04-17 00:33:43,488 - DEBUG - Importing ImtImagePlugin
+2025-04-17 00:33:43,490 - DEBUG - Importing IptcImagePlugin
+2025-04-17 00:33:43,491 - DEBUG - Importing JpegImagePlugin
+2025-04-17 00:33:43,491 - DEBUG - Importing Jpeg2KImagePlugin
+2025-04-17 00:33:43,492 - DEBUG - Importing McIdasImagePlugin
+2025-04-17 00:33:43,492 - DEBUG - Importing MicImagePlugin
+2025-04-17 00:33:43,499 - DEBUG - Importing MpegImagePlugin
+2025-04-17 00:33:43,501 - DEBUG - Importing MpoImagePlugin
+2025-04-17 00:33:43,502 - DEBUG - Importing MspImagePlugin
+2025-04-17 00:33:43,504 - DEBUG - Importing PalmImagePlugin
+2025-04-17 00:33:43,506 - DEBUG - Importing PcdImagePlugin
+2025-04-17 00:33:43,506 - DEBUG - Importing PcxImagePlugin
+2025-04-17 00:33:43,506 - DEBUG - Importing PdfImagePlugin
+2025-04-17 00:33:43,513 - DEBUG - Importing PixarImagePlugin
+2025-04-17 00:33:43,515 - DEBUG - Importing PngImagePlugin
+2025-04-17 00:33:43,515 - DEBUG - Importing PpmImagePlugin
+2025-04-17 00:33:43,515 - DEBUG - Importing PsdImagePlugin
+2025-04-17 00:33:43,516 - DEBUG - Importing QoiImagePlugin
+2025-04-17 00:33:43,516 - DEBUG - Importing SgiImagePlugin
+2025-04-17 00:33:43,518 - DEBUG - Importing SpiderImagePlugin
+2025-04-17 00:33:43,520 - DEBUG - Importing SunImagePlugin
+2025-04-17 00:33:43,520 - DEBUG - Importing TgaImagePlugin
+2025-04-17 00:33:43,521 - DEBUG - Importing TiffImagePlugin
+2025-04-17 00:33:43,521 - DEBUG - Importing WebPImagePlugin
+2025-04-17 00:33:43,523 - DEBUG - Importing WmfImagePlugin
+2025-04-17 00:33:43,524 - DEBUG - Importing XbmImagePlugin
+2025-04-17 00:33:43,526 - DEBUG - Importing XpmImagePlugin
+2025-04-17 00:33:43,528 - DEBUG - Importing XVThumbImagePlugin
+2025-04-17 00:33:49,592 - INFO - Initializing GUI
+2025-04-17 00:33:49,615 - INFO - Setting up UI components
+2025-04-17 00:33:49,695 - INFO - UI components setup completed
+2025-04-17 00:33:49,696 - INFO - GUI setup completed
+2025-04-17 00:33:49,696 - INFO - Starting main loop
+2025-04-17 00:33:52,654 - DEBUG - Showing settings window

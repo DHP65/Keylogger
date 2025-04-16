@@ -1,0 +1,136 @@
+
+
+[2025-04-16 19:07:15] Active Window: Search
+taks[Key.backspace][Key.backspace]sk
+
+[2025-04-16 19:08:45] Active Window: Keylogger Functionality Explained - Brave
+how[Key.space]to[Key.space]k[Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace]i[Key.space]did[Key.space]the[Key.space]steps[Key.space]how[Key.space]to[Key.space]konw[Key.space]if[Key.space]its[Key.space]runnong[Key.enter][Key.enter]ooo[Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace]yes[Key.space]its[Key.space][Key.backspace][Key.backspace][Key.space]is[Key.space]recording[Key.space]the[Key.space]key[Key.space]strocl[Key.backspace][Key.backspace][Key.backspace][Key.backspace]okes[Key.space]but[Key.space]its[Key.space]going[Key.space]in[Key.space]
+
+[2025-04-16 19:10:34] Active Window: New Tab - Brave
+vertical[Key.enter]
+
+[2025-04-16 19:10:48] Active Window: vertical - Brave Search - Brave
+[Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace]horizonta;[Key.backspace]l[Key.enter]
+
+[2025-04-16 19:11:25] Active Window: Keylogger Functionality Explained - Brave
+[Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace]ys[Key.space][Key.backspace][Key.backspace]es[Key.space]because[Key.space]i[Key.space]want[Key.space]to[Key.space]show[Key.space]i[Key.space]t[Key.backspace][Key.backspace]t[Key.space]to[Key.space]our[Key.space]mam[Key.space]so[Key.space]i[Key.space]think[Key.space]it[Key.space]shound[Key.space][Key.backspace][Key.backspace][Key.backspace]ld[Key.space]have[Key.space]a[Key.space]ui[Key.space]a[Key.backspace]or[Key.space]some[Key.space][Key.backspace]thing[Key.space]and[Key.space]one[Key.space]more[Key.space]point[Key.space]i[Key.space][Key.backspace]t[Key.space]is[Key.space]shoin[Key.space][Key.backspace]g[Key.space][Key.backspace][Key.backspace][Key.backspace][Key.backspace]wing[Key.space]the[Key.space]e[Key.backspace]keystroked[Key.backspace]s[Key.space]but[Key.space]o[Key.backspace]it[Key.space]all[Key.space]in[Key.space]horizontal[Key.space]d[Key.backspace]so[Key.space]ti[Key.backspace][Key.backspace]it[Key.space]is[Key.space]difficult[Key.space]to[Key.space]know[Key.space][Key.enter]
+
+[2025-04-16 19:12:59] Active Window: keylog.txt - Keylogger - Visual Studio Code
+[Key.ctrl_l]
+
+--- Logging Started ---
+
+
+[2025-04-16 19:14:48] Active Window: Keylogger Functionality Explained - Brave
+is [SPACE] it [SPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE] hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE] hello [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [SHIFT_R]  [ENTER]  [ENTER]  [ENTER]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE] \n\n--- Logging Started ---\n\n\n--- Logging Stopped ---\n\n\n--- Logging Started ---\n\n\n[2025-04-16 19:26:13] Active Window: Keylogger Functionality Explained - Brave\nis [SPACE] it [SPACE] logging [SPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE] yes [SPACE] its [SPACE] wok [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [SHIFT] HE [BACKSPACE] ello [SPACE] world [SPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE] \n\n--- Logging Stopped ---\n\n\n--- Logging Started ---\n\n\n--- Logging Stopped ---\n\n\n--- Logging Started ---\n\n\n--- Logging Stopped ---\n\n\n--- Logging Started ---\n\n\n--- Logging Stopped ---\n\n\n--- Logging Started ---\n\n\n--- Logging Stopped ---\n\n\n--- Logging Started ---\n\n\n[2025-04-16 23:26:09] Active Window: WhatsApp\narre [SPACE] but [SPACE] karna [SPACE] kya [SPACE] hai [SPACE] issmain [ENTER] start [SPACE] loggingho [SPACE]  [BACKSPACE]  [BACKSPACE]  [BACKSPACE]  [SPACE] ho [SPACE] gaya [SPACE] aaga [SPACE] kya [ENTER] \n\n[2025-04-16 23:27:03] Active Window: Search\nc\n\n--- Logging Stopped ---\n[2025-04-16 23:38:58] --- Logging Started ---
+[2025-04-16 23:39:02] Window Change: Secure Keylogger
+[2025-04-16 23:39:02] Key Pressed: h
+[2025-04-16 23:39:02] Key Pressed: e
+[2025-04-16 23:39:04] Key Pressed: l
+[2025-04-16 23:39:04] Key Pressed: l
+[2025-04-16 23:39:04] Key Pressed: o
+[2025-04-16 23:39:06] Special Key Pressed: [SPACE]
+[2025-04-16 23:39:07] --- Logging Stopped ---
+[2025-04-16 23:39:09] --- Logging Started ---
+[2025-04-16 23:39:27] Window Change: Settings
+[2025-04-16 23:39:27] Key Pressed: i
+[2025-04-16 23:39:27] Key Pressed: a
+[2025-04-16 23:39:28] Key Pressed: m
+[2025-04-16 23:39:28] Key Pressed: m
+[2025-04-16 23:39:29] Key Pressed: a
+[2025-04-16 23:39:29] Key Pressed: d
+[2025-04-16 23:39:29] Key Pressed: a
+[2025-04-16 23:39:30] Key Pressed: r
+[2025-04-16 23:39:30] Key Pressed: a
+[2025-04-16 23:39:30] Key Pressed: u
+[2025-04-16 23:39:31] Key Pressed: c
+[2025-04-16 23:39:31] Key Pressed: h
+[2025-04-16 23:39:31] Key Pressed: i
+[2025-04-16 23:39:32] Key Pressed: h
+[2025-04-16 23:39:32] Key Pressed: a
+[2025-04-16 23:39:33] Key Pressed: h
+[2025-04-16 23:39:33] Key Pressed: l
+[2025-04-16 23:39:34] Special Key Pressed: [SHIFT]
+[2025-04-16 23:39:34] Special Key Pressed: [SHIFT]
+[2025-04-16 23:39:34] Key Pressed: @
+[2025-04-16 23:39:35] Key Pressed: g
+[2025-04-16 23:39:35] Key Pressed: m
+[2025-04-16 23:39:35] Key Pressed: a
+[2025-04-16 23:39:35] Key Pressed: i
+[2025-04-16 23:39:36] Key Pressed: l
+[2025-04-16 23:39:36] Key Pressed: .
+[2025-04-16 23:39:36] Key Pressed: c
+[2025-04-16 23:39:37] Key Pressed: o
+[2025-04-16 23:39:37] Key Pressed: m
+[2025-04-16 23:39:39] Key Pressed: a
+[2025-04-16 23:39:39] Key Pressed: d
+[2025-04-16 23:39:39] Key Pressed: m
+[2025-04-16 23:39:40] Key Pressed: i
+[2025-04-16 23:39:40] Key Pressed: n
+[2025-04-16 23:39:40] Key Pressed: 1
+[2025-04-16 23:39:40] Key Pressed: 2
+[2025-04-16 23:39:41] Key Pressed: 3
+[2025-04-16 23:40:20] Key Pressed: i
+[2025-04-16 23:40:21] Key Pressed: a
+[2025-04-16 23:40:21] Key Pressed: m
+[2025-04-16 23:40:24] Key Pressed: s
+[2025-04-16 23:40:24] Key Pressed: i
+[2025-04-16 23:40:25] Key Pressed: l
+[2025-04-16 23:40:25] Key Pressed: e
+[2025-04-16 23:40:25] Key Pressed: n
+[2025-04-16 23:40:25] Key Pressed: t
+[2025-04-16 23:40:26] Key Pressed: b
+[2025-04-16 23:40:26] Key Pressed: o
+[2025-04-16 23:40:26] Key Pressed: y
+[2025-04-16 23:40:29] Key Pressed: 5
+[2025-04-16 23:40:29] Key Pressed: 0
+[2025-04-16 23:40:29] Key Pressed: 5
+[2025-04-16 23:40:30] Special Key Pressed: [SHIFT]
+[2025-04-16 23:40:30] Special Key Pressed: [SHIFT]
+[2025-04-16 23:40:30] Special Key Pressed: [SHIFT]
+[2025-04-16 23:40:30] Special Key Pressed: [SHIFT]
+[2025-04-16 23:40:30] Special Key Pressed: [SHIFT]
+[2025-04-16 23:40:30] Special Key Pressed: [SHIFT]
+[2025-04-16 23:40:30] Special Key Pressed: [SHIFT]
+[2025-04-16 23:40:30] Special Key Pressed: [SHIFT]
+[2025-04-16 23:40:31] Special Key Pressed: [SHIFT]
+[2025-04-16 23:40:31] Special Key Pressed: [SHIFT]
+[2025-04-16 23:40:31] Special Key Pressed: [SHIFT]
+[2025-04-16 23:40:31] Special Key Pressed: [SHIFT]
+[2025-04-16 23:40:31] Special Key Pressed: [SHIFT]
+[2025-04-16 23:40:31] Special Key Pressed: [SHIFT]
+[2025-04-16 23:40:31] Special Key Pressed: [SHIFT]
+[2025-04-16 23:40:31] Special Key Pressed: [SHIFT]
+[2025-04-16 23:40:31] Special Key Pressed: [SHIFT]
+[2025-04-16 23:40:31] Special Key Pressed: [SHIFT]
+[2025-04-16 23:40:31] Key Pressed: @
+[2025-04-16 23:40:32] Key Pressed: g
+[2025-04-16 23:40:32] Key Pressed: m
+[2025-04-16 23:40:32] Key Pressed: a
+[2025-04-16 23:40:32] Key Pressed: i
+[2025-04-16 23:40:32] Key Pressed: l
+[2025-04-16 23:40:33] Key Pressed: .
+[2025-04-16 23:40:33] Key Pressed: c
+[2025-04-16 23:40:33] Key Pressed: o
+[2025-04-16 23:40:34] Key Pressed: m
+[2025-04-16 23:41:01] --- Logging Stopped ---
+[2025-04-16 23:44:59] --- Logging Started ---
+[2025-04-16 23:45:08] Window Change: Secure Keylogger
+[2025-04-16 23:45:08] Key Pressed: h
+[2025-04-16 23:45:08] Key Pressed: e
+[2025-04-16 23:45:09] Key Pressed: l
+[2025-04-16 23:45:09] Key Pressed: l
+[2025-04-16 23:45:09] Key Pressed: o
+[2025-04-16 23:45:45] --- Logging Stopped ---
+[2025-04-17 00:00:08] --- Logging Started ---
+[2025-04-17 00:00:08] --- Logging Stopped ---
+[2025-04-17 00:28:11] --- Logging Started ---
+[2025-04-17 00:28:17] Window Change: Secure Keylogger
+[2025-04-17 00:28:17] Special Key Pressed: [PRINT_SCREEN]
+[2025-04-17 00:28:35] Window Change: Log Viewer
+[2025-04-17 00:28:35] Special Key Pressed: [PRINT_SCREEN]
+[2025-04-17 00:28:48] Special Key Pressed: [PRINT_SCREEN]
+[2025-04-17 00:28:48] Special Key Pressed: [PRINT_SCREEN]
+[2025-04-17 00:28:58] Special Key Pressed: [PRINT_SCREEN]
+[2025-04-17 00:29:07] Special Key Pressed: [PRINT_SCREEN]
+[2025-04-17 00:29:24] --- Logging Stopped ---
